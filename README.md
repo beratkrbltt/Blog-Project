@@ -25,9 +25,6 @@ Bu proje, React kullanılarak geliştirilmiş bir blog uygulamasıdır.
 - Blog yazılarına yorum yapabilir ve önerilerinizi paylaşabilirsiniz.  
 - Yorumlar anında görüntülenir ve sayfada listelenir.  
 
-## 📱 Mobil ve Masaüstü Uyumlu  
-- **Responsive tasarım** ile cihaz fark etmeksizin mükemmel bir kullanıcı deneyimi.  
-  
 ## 📸 Ekran Görüntüleri
 ![1](image/1.png)
 ![2](image/2.png)
